@@ -1,0 +1,6 @@
+package com.paketdata.disini
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
